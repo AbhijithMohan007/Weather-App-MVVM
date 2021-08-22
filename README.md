@@ -2,7 +2,7 @@
 //  README.md
 //  Created by Abhijith on 20/08/21.
 //  Copyright © 2021 Abhijith. All rights reserved.
-// Purpose: Interview Test for iRoid
+// Purpose: Interview Test for Ahoy
 
 # Product Name
 
