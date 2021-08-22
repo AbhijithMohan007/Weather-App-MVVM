@@ -16,16 +16,16 @@ Version: 1.0
 
 ## Architecture
 MVVM
-- Model : HomeModel.swift
-- View : HomeViewController.swift
-- ViewModel : HomeViewModel.Swift
+- Model : WeatherModel.swift
+- View : DayListViewController.swift
+- ViewModel : WeatherViewModel.Swift
 
 ## New Features!
 You can also:
-- Find the vehicles on the map while clicking the 
-- Can change the map theme colours, 3 styles(night,silver,light)
-- Can able to find the corresponding car location by tapping the card view.
-- Can sort the cars on the map based on the model 
+- Find the weather of the current plays 
+- Free Weather forecast for 7 days.
+- Can convert C° to F°.
+- More details about the current weather. 
 
 ## Thirdparty libraries(Pod Files)
 
